@@ -3,6 +3,7 @@
 }
 
 body{
+  padding-top: 4rem;
   margin: 0px;
   color: #333;
   --type-first: Helvetica, Arial, sans-serif;
@@ -39,3 +40,6 @@ button, input{
   margin: 0 auto;
 }
 
+a{
+  text-decoration: none;
+}
